@@ -77,12 +77,12 @@
 			children = (
 				ADAA27B0231BBFAF00365194 /* AppDelegate.swift */,
 				ADAA27B2231BBFAF00365194 /* SceneDelegate.swift */,
+				08D257A429E673C50063D907 /* Model */,
 				ADAA27C9231BC3F200365194 /* View */,
 				ADAA27C8231BC3E500365194 /* Controller */,
 				ADAA27B9231BBFB300365194 /* Assets.xcassets */,
 				ADAA27BB231BBFB300365194 /* LaunchScreen.storyboard */,
 				ADAA27BE231BBFB300365194 /* Info.plist */,
-				08D257A429E673C50063D907 /* Model */,
 			);
 			path = Clima;
 			sourceTree = "<group>";
